@@ -1,0 +1,61 @@
+/* CSS Document */
+body{margin:0px; padding:0px;}
+#container{margin:0px auto; width:1000px; border:1px solid #666666;}
+
+/*Header CSS Start*/
+.header{height:80px;}
+.headerTitle{font-family:Arial, Helvetica, sans-serif; font-size:26px; font-weight:bold; color:#0033CC; text-align:center; height:45px; background-color:#CCCCCC; padding-top:10px;}
+
+.menu{background-color:#CCCCCC}
+.menuTxt{float:left; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000066; text-align:center; width:190px; padding:3px;}
+
+.hLine{height:1px; background-color:#666666;}
+/*Header CSS End*/
+
+/*Common CSS Start*/
+.fLeft{float:left;}
+.fRight{float:right;}
+.cBoth{clear:both;}
+
+.p10{padding:10px;}
+.p15{padding:15px;}
+.p20{padding:20px;}
+
+.h5{height:5px;}
+.h10{height:10px;}
+.h15{height:15px;}
+.h20{height:20px;}
+.imgCss{border:1px solid #CCCCCC; padding:2px;}
+
+/*Common CSS End*/
+
+/*Footer CSS Start*/
+.footer{text-align:center;}
+.footerTxt{ float:left; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000066; text-align:center; width:110px; padding-top:3px;}
+.copyright{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#999999;}
+/*Footer CSS End*/
+
+/*signup CSS Start*/
+.topTitle{font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#0066CC;}
+.title{float:left; width:210px; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#993333;}
+.title1{float:left; width:210px; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; color:#993333;}
+.title2{ float:left; width:100px; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;}
+/*signup CSS End*/
+
+/*login CSS Start*/
+.lable{float:left; width:130px; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; padding-left:100px;}
+/*login CSS End*/
+
+/*Dashboard CSS Start*/
+.dash{font-family:Arial, Helvetica, sans-serif; font-size:13px;}
+/*Dashboard CSS End*/
+
+/*Listing CSS Start here*/
+.lable{font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; padding:5px 2px 2px 5px; height:20px; text-align:center; border-right:1px solid #CCC;}
+.lable1{float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; padding:5px 2px 2px 5px; height:20px; text-align:center;}
+
+.txt1{font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; padding:5px 2px 2px 5px; height:20px; border-right:1px solid #CCC; float:left; text-align:center;}
+.txt2{font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; padding:5px 2px 2px 5px; height:20px; float:left; text-align:center;}
+/*Listing CSS End here*/
+
+.clHoLine{ height:1px; background:#CCCCCC; }
